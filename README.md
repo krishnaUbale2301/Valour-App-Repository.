@@ -1,4 +1,4 @@
-# Valour-App-Repository.
+# Team32_Valour
 🚀 **Features**
 🤖 AI-Powered SSB Assessment (Titan AI)
 Personalized analysis based on OLQs (Officer Like Qualities) through real-time response evaluation.
